@@ -81,3 +81,12 @@ The following packages were added:
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
   com.unity.modules.accessibility@1.0.0
+
+=== Thu Dec  7 10:32:40 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@2.0.0
+  com.unity.modules.accessibility@1.0.0

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class pohyb : MonoBehaviour
+public class Pohyb : MonoBehaviour
 {
     public float speed = 10.0f;
     public float jumpForce = 10.0f;
@@ -15,7 +15,6 @@ public class pohyb : MonoBehaviour
 
     void Update()
     {
-        // Hr�� 1
         if (gameObject.tag == "Player1")
         {
             if (Input.GetKey(KeyCode.A))
