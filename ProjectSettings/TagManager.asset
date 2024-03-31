@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Freeze
+  - Player2
+  - Brana1
+  - Mic
+  - Brana2
+  - Player1
+  - Border
+  - BorderBrana1
+  - BorderBrana2
+  - SmallBall
+  - Grow-goal
+  - Power
+  - SizeUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - BorderBall
+  - Brany
+  - PowerUpy
+  - Mic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 568045457
+    locked: 0
+  - name: GameObject
+    uniqueID: 1767946851
+    locked: 0
+  - name: Canvas
+    uniqueID: 2515436059
+    locked: 0
